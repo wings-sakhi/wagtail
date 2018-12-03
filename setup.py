@@ -4,7 +4,7 @@ import setuptools
 #     long_description = fh.read()
 
 setuptools.setup(
-     name='wagtail_wings',  
+     name='wagtail',  
      version='0.1',
      scripts=['wagtail_wings'] ,
      author="Mukunth Krishnasagar",
