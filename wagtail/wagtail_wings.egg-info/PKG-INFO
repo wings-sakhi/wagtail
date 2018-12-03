@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: wagtail-wings
+Version: 0.1
+Summary: A Custom wagtail package with encryption
+Home-page: https://github.com/wings-sakhi/wagtail
+Author: Mukunth Krishnasagar
+Author-email: mukunth@wings.lc
+License: UNKNOWN
+Description: Yet to be added
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

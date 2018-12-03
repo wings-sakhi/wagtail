@@ -1,0 +1,14 @@
+admin
+api
+bin
+contrib
+core
+documents
+embeds
+images
+search
+sites
+snippets
+tests
+users
+utils
